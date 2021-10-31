@@ -1,3 +1,5 @@
+## Other solutions: 
+Kedro framework from Mckinsey (bluestrike ,  Luigi https://github.com/sachinvy/interview-test-data-engineer, https://bionics.it/posts/luigi-tutorial 
 # Data Engineer Interview Test
 
 Prospa is looking for a high quality data engineer which can deliver comprehensive solutions for our continuity and business growth. 
